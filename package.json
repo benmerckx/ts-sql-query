@@ -46,7 +46,7 @@
     "devDependencies": {
         "typescript": "^3.3.3"
     },
-    "optionalDependencies": {
+    "peerDependencies": {
         "@types/any-db": "^2.1.30",
         "@types/any-db-transaction": "^2.2.30",
         "@types/better-sqlite3": "^5.4.0",
